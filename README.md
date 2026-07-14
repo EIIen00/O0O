@@ -7,5 +7,5 @@ Since this mod is not yet complete, modification of the images in this mod and r
 
 Please report bugs or ask questions via Discord.
 
--
+_
 It was built with the assumption that it runs on version 0.5.9.8 of Degrees of Lewdity. Other versions of this mode might cause bugs.
